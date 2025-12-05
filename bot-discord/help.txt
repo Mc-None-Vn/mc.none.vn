@@ -23,4 +23,6 @@ $addButton[no;Help_$authorID$var[ID$var[ID]]-Economy-Left;;secondary;yes;{emoji:
 $addButton[no;Help_Help$var[ID$var[ID]]List;➜ ;secondary;yes;]
 $addButton[no;Help_$authorID$var[ID$var[ID]]-Economy-Right;;secondary;yes;{emoji:arrow,right}]
 $editButton[Help_Help$var[ID$var[ID]]List;➜ None;secondary;yes;{emoji:list}]
+$image[{data:line}]
+$footer[{data:footer}]
 $color[505050]
